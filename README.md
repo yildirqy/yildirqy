@@ -6,7 +6,7 @@ Programmer and Cyber ​​Security Analyst
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [yildirqy1@gmail.com](mailto:yildirqy1@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning JAVA
 
 <a href="https://www.github.com/yildirqy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yildirqy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/yldiray8" target="_blank" rel="noreferrer"><img
